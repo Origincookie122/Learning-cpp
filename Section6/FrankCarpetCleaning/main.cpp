@@ -19,9 +19,9 @@
 #include <iostream>
 
 int main() {
-	const int pricePerRoom {30};
+	const double pricePerRoom {30.00};
 	const double salesTax {0.06};
-	const int estimationValidDays {30};
+	const int estimationExpiration {30}; // Days until expiration
 	
 	int roomsNeededCleaned {0};
 	
@@ -35,7 +35,7 @@ int main() {
 		return 0;
 	}
 	
-	int roomCost {roomsNeededCleaned * pricePerRoom};
+	double roomCost {roomsNeededCleaned * pricePerRoom};
 	double salesTaxCost {roomCost * salesTax};
 	double totalCost {roomCost + salesTaxCost};
 	
@@ -46,7 +46,7 @@ int main() {
 	std::cout << ("Tax: $") << salesTaxCost << std::endl;
 	std::cout << ("==============================================================================================") << std::endl;
 	std::cout << ("Total Cost: $") << totalCost << std::endl;
-	std::cout << ("This estimate is valid for ") << estimationValidDays << (" days") << std::endl;
+	std::cout << ("This estimate is valid for ") << estimationExpiration << (" days") << std::endl;
 	
 	return 0;
 }
