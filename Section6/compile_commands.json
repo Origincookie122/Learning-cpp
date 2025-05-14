@@ -1,0 +1,13 @@
+[{
+  "file": "C:\\Users\\Carson\\Documents\\cpp\\Learning\\Section6\\SizeOf\\main.cpp",
+  "directory": "C:\\Users\\Carson\\Documents\\cpp\\Learning\\Section6\\SizeOf",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\Carson\\Documents\\cpp\\Learning\\Section6\\SizeOf\\main.cpp -o C:\\Users\\Carson\\Documents\\cpp\\Learning\\Section6\\SizeOf\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0 -IC:\\mingw64\\include\\c++\\14.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\Carson\\Documents\\cpp\\Learning\\Section6\\FrankCarpetCleaning\\main.cpp",
+  "directory": "C:\\Users\\Carson\\Documents\\cpp\\Learning\\Section6\\FrankCarpetCleaning",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\Carson\\Documents\\cpp\\Learning\\Section6\\FrankCarpetCleaning\\main.cpp -o C:\\Users\\Carson\\Documents\\cpp\\Learning\\Section6\\FrankCarpetCleaning\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0 -IC:\\mingw64\\include\\c++\\14.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\Carson\\Documents\\cpp\\Learning\\Section6\\CalculatingSquareFootage\\main.cpp",
+  "directory": "C:\\Users\\Carson\\Documents\\cpp\\Learning\\Section6\\CalculatingSquareFootage",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\Carson\\Documents\\cpp\\Learning\\Section6\\CalculatingSquareFootage\\main.cpp -o C:\\Users\\Carson\\Documents\\cpp\\Learning\\Section6\\CalculatingSquareFootage\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0 -IC:\\mingw64\\include\\c++\\14.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }]
